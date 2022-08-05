@@ -1,0 +1,18 @@
+
+void setA(int in){
+a=in;
+}
+
+int getA() const {
+return a;
+}
+
+void setB(int in){
+b=in;
+}
+
+int getB() const {
+return b;
+}
+
+

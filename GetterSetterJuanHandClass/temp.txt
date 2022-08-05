@@ -1,0 +1,14 @@
+
+void setPrecioTarifaBusiness(float in);
+
+float getPrecioTarifaBusiness();
+
+void VueloBusiness::setPrecioTarifaBusiness(float in){
+precioTarifaBusiness=in;
+}
+
+float VueloBusiness::getPrecioTarifaBusiness() const {
+return precioTarifaBusiness;
+}
+
+
