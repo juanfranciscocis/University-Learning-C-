@@ -1,2 +1,2 @@
 # University-Learning-C-
-Just prove that I know C++
+Just a prove that I know C++
